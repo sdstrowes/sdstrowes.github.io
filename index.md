@@ -10,3 +10,7 @@
   - critically: what actually passes? Does the routing header actually pass through? Can it be used?
   - related header extension work [http://tma.ifip.org/wp-content/uploads/sites/7/2017/06/tma2017_paper22.pdf]
   - discussed briefly with authors of [https://conferences.sigcomm.org/imc/2017/papers/imc17-final174.pdf]
+
+- open firewall policies: what actually passes through?
+  - can, say, Atlas probes send unsolicited pings to each other (ICMP/UDP/TCP?)? Addressing may be global, but what firewalling exists, and where?
+  - related: the PMTUD problem
