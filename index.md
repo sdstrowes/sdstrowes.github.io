@@ -40,3 +40,10 @@
 - survey scanning techniques
   - go right back to the early stuff
 
+## IPv4
+
+- better studies of IPv4 transfer markets
+  - https://labs.ripe.net/Members/wilhelm/ipv4-transfers-in-the-ripe-ncc-service-region
+  - https://www.ripe.net/manage-ips-and-asns/resource-transfers-and-mergers/transfer-statistics
+
+
