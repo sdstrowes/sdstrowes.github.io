@@ -29,6 +29,11 @@
 - Spoofing:
   - [this paper](https://conferences.sigcomm.org/imc/2017/papers/imc17-final24.pdf) is great but doesn't touch on the v6 data
 
+- Threats in the IPv6 world
+  - botnet traffic, amplification attacks, continuous sweeping: all commonplace in IPv4
+  - the IPv6 space modifies how people attack it or measure it
+  - so, what does this traffic look like in the IPv6 side? does it exist at all?
+
 - v6 growth using atlas probes
   - [https://sdstrowes.co.uk/misc/atlas/index.html](https://sdstrowes.co.uk/misc/atlas/index.html)
 
