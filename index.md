@@ -14,3 +14,7 @@
 - open firewall policies: what actually passes through?
   - can, say, Atlas probes send unsolicited pings to each other (ICMP/UDP/TCP?)? Addressing may be global, but what firewalling exists, and where?
   - related: the PMTUD problem
+
+- survey scanning techniques
+  - go right back to the early stuff
+
