@@ -15,6 +15,10 @@
   - can, say, Atlas probes send unsolicited pings to each other (ICMP/UDP/TCP?)? Addressing may be global, but what firewalling exists, and where?
   - related: the PMTUD problem
 
+- the KSK rollover
+  - [ripe74 preso with original timeline, slide 25](ripe74.ripe.net/wp-content/uploads/presentations/25-RIPE74-lewis-submission.pdf)
+  - when bumping up over 1280 bytes, do we trigger PMTUD glitches, and can we use the k-root to pinpoint them?
+
 - IPv6 diffs
   - diff between originating ASNs in BGP dumps
   - diff in AS hops between pairs of hosts
