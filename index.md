@@ -29,6 +29,9 @@
 - Spoofing:
   - (this paper)[https://conferences.sigcomm.org/imc/2017/papers/imc17-final24.pdf] is great but doesn't touch on the v6 data
 
+- v6 growth using atlas probes
+  - (https://sdstrowes.co.uk/misc/atlas/index.html)[https://sdstrowes.co.uk/misc/atlas/index.html]
+
 - survey scanning techniques
   - go right back to the early stuff
 
