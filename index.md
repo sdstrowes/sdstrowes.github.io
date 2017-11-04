@@ -43,6 +43,7 @@
 
 - survey scanning techniques
   - go right back to the early stuff
+  - see also [Characterizing the IPv6 Security Landscape by Large-Scale Measurements](https://link.springer.com/chapter/10.1007%2F978-3-319-20034-7_16) (2015)
 
 ## IPv4
 
