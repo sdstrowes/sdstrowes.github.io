@@ -51,4 +51,11 @@
   - https://labs.ripe.net/Members/wilhelm/ipv4-transfers-in-the-ripe-ncc-service-region
   - https://www.ripe.net/manage-ips-and-asns/resource-transfers-and-mergers/transfer-statistics
 
+## Archaeology
+
+- Things get deprecated in standards. But what still works?
+- conventional wisdom was that IPv4 Record Route was useless, but a paper in 2017 refutes that: https://conferences.sigcomm.org/imc/2017/papers/imc17-final174.pdf
+- So what else works?
+  - https://tools.ietf.org/html/rfc1393 ?
+  - https://www.iana.org/assignments/ipv6-parameters/ipv6-parameters.xhtml#ipv6-parameters-3 ?
 
