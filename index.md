@@ -54,8 +54,8 @@
 ## Archaeology
 
 - Things get deprecated in standards. But what still works?
-- conventional wisdom was that IPv4 Record Route was useless, but a paper in 2017 refutes that: https://conferences.sigcomm.org/imc/2017/papers/imc17-final174.pdf
+- conventional wisdom was that IPv4 Record Route was useless, but a paper in 2017 refutes that: [https://conferences.sigcomm.org/imc/2017/papers/imc17-final174.pdf](
 - So what else works?
-  - https://tools.ietf.org/html/rfc1393 ?
-  - https://www.iana.org/assignments/ipv6-parameters/ipv6-parameters.xhtml#ipv6-parameters-3 ?
+  - [rfc1393](https://tools.ietf.org/html/rfc1393) ?
+  - [IPv6 Routing Headers](https://www.iana.org/assignments/ipv6-parameters/ipv6-parameters.xhtml#ipv6-parameters-3)
 
