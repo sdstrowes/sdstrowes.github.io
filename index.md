@@ -48,14 +48,14 @@
 ## IPv4
 
 - better studies of IPv4 transfer markets
-  - [https://labs.ripe.net/Members/wilhelm/ipv4-transfers-in-the-ripe-ncc-service-region](IPv4 Transfers in the RIPE NCC Service Region)
-  - [https://www.ripe.net/manage-ips-and-asns/resource-transfers-and-mergers/transfer-statistics](IPv4 Transfer Statistics)
+  - [IPv4 Transfers in the RIPE NCC Service Region](https://labs.ripe.net/Members/wilhelm/ipv4-transfers-in-the-ripe-ncc-service-region)
+  - [IPv4 Transfer Statistics](https://www.ripe.net/manage-ips-and-asns/resource-transfers-and-mergers/transfer-statistics)
 
 ## Archaeology
 
 - Things get deprecated in standards. But what still works?
-- conventional wisdom was that IPv4 Record Route was useless, but a paper in 2017 refutes that: [https://conferences.sigcomm.org/imc/2017/papers/imc17-final174.pdf](the Record Route Option is an Option)
+- conventional wisdom was that IPv4 Record Route was useless, but a paper in 2017 refutes that: [the Record Route Option is an Option](https://conferences.sigcomm.org/imc/2017/papers/imc17-final174.pdf)
 - So what else works?
-  - [rfc1393](https://tools.ietf.org/html/rfc1393)?
+  - [https://tools.ietf.org/html/rfc1393](rfc1393)?
   - [IPv6 Routing Headers](https://www.iana.org/assignments/ipv6-parameters/ipv6-parameters.xhtml#ipv6-parameters-3)?
 
