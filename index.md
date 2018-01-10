@@ -48,8 +48,8 @@
 ## IPv4
 
 - better studies of IPv4 transfer markets
-  - https://labs.ripe.net/Members/wilhelm/ipv4-transfers-in-the-ripe-ncc-service-region
-  - https://www.ripe.net/manage-ips-and-asns/resource-transfers-and-mergers/transfer-statistics
+  - [https://labs.ripe.net/Members/wilhelm/ipv4-transfers-in-the-ripe-ncc-service-region](IPv4 Transfers in the RIPE NCC Service Region)
+  - [https://www.ripe.net/manage-ips-and-asns/resource-transfers-and-mergers/transfer-statistics](IPv4 Transfer Statistics)
 
 ## Archaeology
 
