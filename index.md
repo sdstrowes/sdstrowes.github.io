@@ -1,3 +1,16 @@
+
+## Public activity
+
+- incoming [MAT WG](https://www.ripe.net/participate/ripe/wg/active-wg/mat) co-chair
+- [ANRW 2022](https://irtf.org/anrw/2022/) [TPC](https://irtf.org/anrw/2022/committees.html)
+- NSF medium panel reviewer
+- [PAM 2022](https://pam2022.nl/) [TPC](https://pam2022.nl/committees/)
+- [IRTF ANRP 2022](https://irtf.org/anrp/) award committee
+
+
+
+# Archive
+
 ## IPv6
 
 - continuing the IPv6 target generation work
